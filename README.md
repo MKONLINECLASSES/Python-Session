@@ -1,5 +1,5 @@
 # Python-Session
-# Descriotion
+# Description
 
 This repository contains a Python class example and neccessary assignment that generally explain in day to day classes taken by mentors as well as instructor.
 It also consist of neccesary sources and links through which you can have more elobrative explanation of respected programming language.
